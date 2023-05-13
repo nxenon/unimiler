@@ -1,5 +1,5 @@
 # Unimiler (Unicode Normalizer)
-Normalize unicode for bypassing purposes and testing if normalizing is being used.
+Normalize unicode for WAF XSS Protection bypassing purposes and testing if normalizing is being used.
 
 # Usage
 The tool is an interactive script:
